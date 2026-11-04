@@ -1,0 +1,14 @@
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\bin\Debug\net8.0\exemplo9calculadora.exe
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\bin\Debug\net8.0\exemplo9calculadora.deps.json
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\bin\Debug\net8.0\exemplo9calculadora.runtimeconfig.json
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\bin\Debug\net8.0\exemplo9calculadora.dll
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\bin\Debug\net8.0\exemplo9calculadora.pdb
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.AssemblyInfoInputs.cache
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.AssemblyInfo.cs
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.dll
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\refint\exemplo9calculadora.dll
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.pdb
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\exemplo9calculadora.genruntimeconfig.cache
+C:\Users\gregory.kspereira\source\repos\exemplo9calculadora\obj\Debug\net8.0\ref\exemplo9calculadora.dll

@@ -1,0 +1,14 @@
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.AssemblyInfoInputs.cache
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.AssemblyInfo.cs
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.csproj.CoreCompileInputs.cache
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\bin\Debug\net8.0\Exemplos5.exe
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\bin\Debug\net8.0\Exemplos5.deps.json
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\bin\Debug\net8.0\Exemplos5.runtimeconfig.json
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\bin\Debug\net8.0\Exemplos5.dll
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\bin\Debug\net8.0\Exemplos5.pdb
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.dll
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\refint\Exemplos5.dll
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.pdb
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\Exemplos5.genruntimeconfig.cache
+C:\Users\gregory.kspereira\source\repos\Exemplos5\Exemplos5\obj\Debug\net8.0\ref\Exemplos5.dll
