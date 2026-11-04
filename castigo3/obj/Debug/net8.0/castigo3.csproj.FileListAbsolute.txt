@@ -1,0 +1,14 @@
+C:\Users\gregory.kspereira\source\repos\castigo3\bin\Debug\net8.0\castigo3.exe
+C:\Users\gregory.kspereira\source\repos\castigo3\bin\Debug\net8.0\castigo3.deps.json
+C:\Users\gregory.kspereira\source\repos\castigo3\bin\Debug\net8.0\castigo3.runtimeconfig.json
+C:\Users\gregory.kspereira\source\repos\castigo3\bin\Debug\net8.0\castigo3.dll
+C:\Users\gregory.kspereira\source\repos\castigo3\bin\Debug\net8.0\castigo3.pdb
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.AssemblyInfoInputs.cache
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.AssemblyInfo.cs
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.csproj.CoreCompileInputs.cache
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.dll
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\refint\castigo3.dll
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.pdb
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\castigo3.genruntimeconfig.cache
+C:\Users\gregory.kspereira\source\repos\castigo3\obj\Debug\net8.0\ref\castigo3.dll
