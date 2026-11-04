@@ -1,0 +1,14 @@
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\bin\Debug\net8.0\apostilaFaccat.exe
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\bin\Debug\net8.0\apostilaFaccat.deps.json
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\bin\Debug\net8.0\apostilaFaccat.runtimeconfig.json
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\bin\Debug\net8.0\apostilaFaccat.dll
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\bin\Debug\net8.0\apostilaFaccat.pdb
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.AssemblyInfoInputs.cache
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.AssemblyInfo.cs
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.csproj.CoreCompileInputs.cache
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.dll
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\refint\apostilaFaccat.dll
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.pdb
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\apostilaFaccat.genruntimeconfig.cache
+C:\Users\gregory.kspereira\source\repos\apostilaFaccat\obj\Debug\net8.0\ref\apostilaFaccat.dll

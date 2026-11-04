@@ -1,0 +1,14 @@
+C:\Users\gregory.kspereira\source\repos\Boletim.3\bin\Debug\net8.0\Boletim.3.exe
+C:\Users\gregory.kspereira\source\repos\Boletim.3\bin\Debug\net8.0\Boletim.3.deps.json
+C:\Users\gregory.kspereira\source\repos\Boletim.3\bin\Debug\net8.0\Boletim.3.runtimeconfig.json
+C:\Users\gregory.kspereira\source\repos\Boletim.3\bin\Debug\net8.0\Boletim.3.dll
+C:\Users\gregory.kspereira\source\repos\Boletim.3\bin\Debug\net8.0\Boletim.3.pdb
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.AssemblyInfoInputs.cache
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.AssemblyInfo.cs
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.csproj.CoreCompileInputs.cache
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.dll
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\refint\Boletim.3.dll
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.pdb
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\Boletim.3.genruntimeconfig.cache
+C:\Users\gregory.kspereira\source\repos\Boletim.3\obj\Debug\net8.0\ref\Boletim.3.dll
